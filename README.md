@@ -9,7 +9,7 @@ The project demonstrates the use of JavaScript Audio APIs, DOM manipulation, and
 ---
 
 ## LIVEPROJECT AT 
- https://anshika-123-tech.github.io/music-player/
+ https://anshika-123-tech.github.io/music-player
 
  ---
 ## ✨ Features
@@ -194,3 +194,11 @@ B.Tech Student
 This project is developed for educational and learning purposes.
 
 Feel free to use, modify, and enhance it for academic and personal projects.
+
+## Screenshot
+<img width="603" height="879" alt="Screenshot 2026-05-31 152241" src="https://github.com/user-attachments/assets/2210a250-60e0-4204-8b9a-c2050d75ab67" />
+---
+<img width="566" height="860" alt="Screenshot 2026-05-31 152251" src="https://github.com/user-attachments/assets/4037e660-86dd-45e4-a402-0c713ef31691" />
+---
+<img width="458" height="855" alt="Screenshot 2026-05-31 152259" src="https://github.com/user-attachments/assets/7e7373d8-8c05-4ad0-904c-36ceb696c37f" />
+---
