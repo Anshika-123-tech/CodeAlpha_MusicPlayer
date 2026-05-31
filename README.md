@@ -8,6 +8,10 @@ The project demonstrates the use of JavaScript Audio APIs, DOM manipulation, and
 
 ---
 
+## LIVEPROJECT AT 
+ https://anshika-123-tech.github.io/music-player/
+
+ ---
 ## ✨ Features
 
 ### 🎶 Audio Controls
